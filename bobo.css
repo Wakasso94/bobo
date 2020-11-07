@@ -1,0 +1,57 @@
+
+* {
+    box-sizing: border-box;
+    
+  }
+  html {
+    background: #ececec url(3.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    
+  }
+  html, body {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+  
+  }
+  
+  .container {
+    max-width: 1200px;
+    margin-right: auto;
+    margin-left: auto;
+    text-align: left;
+    margin-top: 70px;
+    
+  }
+  h4 {
+    font-size: 1.4rem;
+  }
+  button {
+    border: none;
+    padding: 12px 10px;
+    background: #96672a;
+    font-size: 1.1rem;
+    outline: none;
+    cursor: pointer;
+    transition: all 0.3s ease-in-out;
+    
+  }
+  button:hover {
+    background: #d6b703d2;
+  }
+  #img {
+      width: 30%;
+  }
+  #text {
+      text-align: initial;
+      color: ivory;
+  }
+
+  #btn {
+   
+    text-align: center;
+    border-radius: 20%;
+
+    
+  }
